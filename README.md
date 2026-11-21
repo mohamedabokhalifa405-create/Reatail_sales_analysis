@@ -16,7 +16,7 @@ A data analysis project focused on retail sales performance, customer behavior, 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/mohamedabokhalifa405-create/Reatail_sales_analysis/blob/main/Annotation%202026-11-21%20191623.png)
 
 ## Key Insights
 - Monthly sales analysis
