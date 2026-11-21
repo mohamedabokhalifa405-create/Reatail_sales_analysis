@@ -1,32 +1,27 @@
-#Retail_Sales_Analysis
+# Retail Sales Analysis
 
-Project Overview
+## Project Overview
+A data analysis project focused on retail sales performance, customer behavior, and sales trends.
 
-A data analysis project focused on exploring retail sales data, identifying trends, understanding customer behavior, and generating actionable business insights.
+## Tools & Technologies
+- SQL Server
+- AI-assisted Dashboard Development
+- Data Analysis
 
-Tools & Technologies
+## Key Metrics
+- Total Sales: 456,000
+- Transactions: 1,000
+- Units Sold: 2,514
+- Average Transaction Value: 456
 
-* SQL Server
-* AI-assisted Dashboard Development
-* Data Analysis
-* Data Visualization
+## Dashboard Preview
 
-Key Metrics
+![Dashboard](dashboard.png)
 
-* Total Sales: 456,000
-* Total Transactions: 1,000
-* Total Units Sold: 2,514
-* Average Transaction Value: 456
+## Key Insights
+- Monthly sales analysis
+- Product category performance
+- Customer purchasing behavior
 
-Dashboard Preview
-
-Key Insights
-
-* Analyzed monthly sales performance.
-* Identified top-performing product categories.
-* Explored customer purchasing behavior.
-* Examined revenue distribution across transactions.
-
-Author
-
+## Author
 Mohamed Tarek
